@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+<event>Event1 Description</event><newValue>NEW Event1 Description</newValue>
+<event>Event2 Description</event><newValue></newValue>
+<event>Event3 Description</event><newValue></newValue>
+</root>

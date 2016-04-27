@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<events>
+<date>2012</date>
+<date>2013</date>
+<date>2014</date>
+<actor>actor1</actor>
+<actor>actor2</actor>
+<place>place1</place>
+<place>place2</place>
+<place>place3</place>
+</events>
+<other>someothervalues</other>
+</root>

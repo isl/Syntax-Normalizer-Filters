@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+		<other>someotherinfo</other>
+		<event>Event1 Description</event>
+		<event>Event2 Description</event>
+		<event>Event1 Description</event>
+		<other>someotherinfo2</other>
+		<event>Event3 Description</event>
+</root>

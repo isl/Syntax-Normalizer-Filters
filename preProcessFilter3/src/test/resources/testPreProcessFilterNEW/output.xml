@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+  <Coin>
+    <Accession>Object Number: CM.YG.1000-R(Coins and Medals)(record id: 114786; input: 2004-11-30; modified: 2010-04-01)</Accession>
+    <Acquisition>bequeathed; 1936-07-07; Young, Arthur W.</Acquisition>
+    <AlternativeNumber>RRC; 449/3aordering; RR-2646</AlternativeNumber>
+    <Category>coin</Category>
+    <Collection>Young Collection</Collection>
+    <Date>48 B.C.</Date>
+    <Dimensions><Dimension><DimensionType>image(height)</DimensionType><DimensionValue>19</DimensionValue><DimensionUnit>mm</DimensionUnit></Dimension><Dimension><DimensionType>image(width)</DimensionType><DimensionValue>19</DimensionValue><DimensionUnit>mm</DimensionUnit></Dimension><Dimension><DimensionType>weight</DimensionType><DimensionValue>3.83</DimensionValue><DimensionUnit>g</DimensionUnit></Dimension><Dimension><DimensionType>die axis</DimensionType><DimensionValue>200</DimensionValue><DimensionUnit>degrees</DimensionUnit></Dimension></Dimensions>
+    <Inscription>design; obverse; Head of Liber wearing ivy wreath, r.; behind, PANSAdesign; reverse; Ceres in biga r.; holding torch in l. hand and reins in r.; on r. C.VIBIVS.C.F.C.N</Inscription>
+    <Maker>Caius Vibius Pansa Caetronianus; moneyerRome; mintRome; mint</Maker>
+    <Material>silver</Material>
+    <Name>Roman Republic; Seriesdenarius; denomination</Name>
+    <PermanentIdentifier>http://data.fitzmuseum.cam.ac.uk/id/object/114786</PermanentIdentifier>
+    <ProductionPlace>Rome, mint, place</ProductionPlace>
+    <Technique>struck</Technique>
+    <obverseImg>http://www-img.fitzmuseum.cam.ac.uk/img/cm/cm7/CM.YG.1000-R(1).jpg</obverseImg>
+    <reverseImg>http://www-img.fitzmuseum.cam.ac.uk/img/cm/cm7/CM.YG.1000-R(2).jpg</reverseImg>
+  </Coin>
+  <Coin>
+    <Accession>Object Number: CM.YG.1001-R(Coins and Medals)(record id: 114785; input: 2004-11-30; modified: 2010-04-01)</Accession>
+    <Acquisition>bequeathed; 1936-07-07; Young, Arthur W.</Acquisition>
+    <AlternativeNumber>RRC; 450/1aordering; RR-2652</AlternativeNumber>
+    <Category>coin</Category>
+    <Collection>Young Collection</Collection>
+    <Date>48 B.C.</Date>
+    <Dimensions><Dimension><DimensionType>image(height)</DimensionType><DimensionValue>18</DimensionValue><DimensionUnit>mm</DimensionUnit></Dimension><Dimension><DimensionType>image(width)</DimensionType><DimensionValue>18</DimensionValue><DimensionUnit>mm</DimensionUnit></Dimension><Dimension><DimensionType>weight</DimensionType><DimensionValue>3.71</DimensionValue><DimensionUnit>g</DimensionUnit></Dimension><Dimension><DimensionType>die axis</DimensionType><DimensionValue>180</DimensionValue><DimensionUnit>degrees</DimensionUnit></Dimension></Dimensions>
+    <Inscription>design; obverse; Helmeted head of Mars r.design; reverse; Two carnyces in saltire; above, oval shield; below, round shield; on r. ALBINVS; on l. BRVTI.F</Inscription>
+    <Maker>Decimus Junius Brutus Albinus; moneyerRome; mintRome; mint</Maker>
+    <Material>silver</Material>
+    <Name>Roman Republic; Seriesdenarius; denomination</Name>
+    <PermanentIdentifier>http://data.fitzmuseum.cam.ac.uk/id/object/114785</PermanentIdentifier>
+    <ProductionPlace>Rome, mint, place</ProductionPlace>
+    <Technique>struck</Technique>
+    <obverseImg>http://www-img.fitzmuseum.cam.ac.uk/img/cm/cm7/CM.YG.1001-R(1).jpg</obverseImg>
+    <reverseImg>http://www-img.fitzmuseum.cam.ac.uk/img/cm/cm7/CM.YG.1001-R(2).jpg</reverseImg>
+  </Coin>
+</root>

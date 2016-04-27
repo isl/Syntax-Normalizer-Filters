@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+<events>
+<event><date>2012</date><actor>actor1</actor><place>place1</place></event><event><date>2013</date><actor>actor2</actor><place>place2</place></event><event><date>2014</date><place>place3</place></event></events>
+<other>someothervalues</other>
+</root>
